@@ -1,0 +1,57 @@
+intro computadoras
+
+
+anatomia de la computadora
+representacion de la informacion
+programa de computadora
+ciclo de vida de un programa programa
+variables
+
+diferencias entre computadora y calculadora
+-La calculadora solo sirve para hacer calculos, graficas  y la computadora es para todo proposito, hace una media de todo.
+
+componentes
+memoria
+-memoria principal: ram(random access memory), rom(read only memory)
+-memoria secundaria: hardrive: ssd
+
+la ram es volatil, no persiste la informacion, solo persiste cuando tenga energia, apagamos la pc y se limpia la ram.
+el codigo que creamos, la variable, ocupa un lugar en la ram, y cuando apagamos la pc , esa variable se borra.
+la ram es mas rapida, mientras mas rapida, mas cara.
+
+la rom no es volatil, y es mas lenta que el ram. En la rom se guarda todo lo imprescindible para que la computadora funcione.
+
+memoria secundaria
+-hardrive (HHD)
+es mas barata, lenta y no es volatil.
+-SSD
+mas rapida que la HDD,mas cara.
+
+Registros
+son memorias que estan al lados del cpu, son pequeñas muy pequeñas, son muy rapidas, se encuentran cerca del cpu para hacer operaciones rapidas.
+
+MIENTRAS MAS RAPIDA LA MEMORIA, ES MAS CARA.
+
+memoria secundaria, rom,ram,registros: va de mas lento a mas rapido.
+
+CPU (CENTRAL PROCESSING UNIT)
+Se compone de unidad de control, ALU (Arithmetic Logic Unit), registros.
+El central unit solo manda la orden al ALU para que este realize las operaciones
+
+ASCII (AMERICAN STANDARD CODE FOR INFORMATION INTERCHANGE)
+Los primeros 32 caracteres no se pueden imprimir, ya que los reconoce como caracteres especiales
+
+SISTEMAS NUMERICOS 
+-Decimal
+-Binario
+-Hexadecimal
+un hexadecimal son 4 bits
+
+CICLO DE VIDA DE UN PROGRAMA
+Desde que lo escribo hasta que acaba el programa.
+Lenguaje compilado y interprete.
+el codigo compilado es mas rapido, el interprete es mas lento porque va revisando cada linea.
+
+PROGRAMACION PRECEDIMENTAL
+-Secuencia tras secuencia
+-Una instruccion a la vez en una orden especifica
