@@ -55,3 +55,17 @@ el codigo compilado es mas rapido, el interprete es mas lento porque va revisand
 PROGRAMACION PRECEDIMENTAL
 -Secuencia tras secuencia
 -Una instruccion a la vez en una orden especifica
+
+
+
+Input out en C++
+Casting= cambiar los tipos de variable
+using namespace std; <<<<esto es para no volver a escribir std, y solo escribir cout
+
+VARIABLES CONSTANTES
+const ,tipo de constante, nombre de la variable=100;
+ejemplo: const int number=100;
+
+el tipo de datos le dice al compilador que tipo de datos puede almacenar en la variable, y el compilador asigna la memoria a la variable en funcion del tipo de datos.
+
+C++ admite los siguientes datos: fundamentales, derivados, definidos 
