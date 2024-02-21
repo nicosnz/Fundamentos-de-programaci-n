@@ -1,0 +1,34 @@
+Git init..-
+
+Definición formal.- El comando git init crea un nuevo 
+repositorio de Git y puede utilizarse para convertir un 
+proyecto existente y sin versión en un repositorio de Git 
+o inicializar un nuevo repositorio vacío. (Atlassian Git Tutorial)
+
+Definición subjetiva.- El comando, sirve para crear un nuevo repositorio de git.
+
+Git config.-
+
+Definición formal.- El comando git config es una función útil que 
+sirve para definir valores de configuración de Git a nivel 
+de un proyecto global o local. Estos niveles de configuración
+se corresponden con archivos de texto.gitconfig. 
+Al ejecutar git config, 
+se modificará un archivo de texto de configuración. (Atlassian Git Tutorial)
+
+Definición subjetiva.- Sirve para definir la configuración del git en diferentes niveles.
+
+Git Add.-
+
+Definición formal.- El comando git add añade una modificación presente en la working directory al staging area. Es la forma de decirle a Git 
+qué cambios particulares 
+se realizarán en la próxima confirmación.(Aulab)
+
+Definición subjetiva.- Este comando sirve para añadir la modificación que hicimos al stage area, para luego realizarle un commit.
+
+Git commit.-
+
+Definición formal.- El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto:
+Git no las cambiará nunca a no ser que se lo pidas expresamente. (Atlassian Tutorial)
+
+Definición subjetiva.- 
