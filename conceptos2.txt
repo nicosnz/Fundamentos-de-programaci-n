@@ -31,4 +31,4 @@ Git commit.-
 Definición formal.- El comando git commit captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto:
 Git no las cambiará nunca a no ser que se lo pidas expresamente. (Atlassian Tutorial)
 
-Definición subjetiva.- 
+Definición subjetiva.- El comando git commit, sirve para guardar los cambios antes del git push, se pueden comentar tambien acerca de estos cambios.
