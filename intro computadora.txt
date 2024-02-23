@@ -59,7 +59,7 @@ PROGRAMACION PRECEDIMENTAL
 
 
 Input out en C++
-Casting= cambiar los tipos de variable
+Casting= cambiar los tipos de datos
 using namespace std; <<<<esto es para no volver a escribir std, y solo escribir cout
 
 VARIABLES CONSTANTES
@@ -69,3 +69,7 @@ ejemplo: const int number=100;
 el tipo de datos le dice al compilador que tipo de datos puede almacenar en la variable, y el compilador asigna la memoria a la variable en funcion del tipo de datos.
 
 C++ admite los siguientes datos: fundamentales, derivados, definidos 
+
+datos booleanos
+true=1
+false=0 
