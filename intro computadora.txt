@@ -73,3 +73,24 @@ C++ admite los siguientes datos: fundamentales, derivados, definidos
 datos booleanos
 true=1
 false=0 
+///////////////////////////////
+Resolucion de problemas::
+funciones:
+   analisis del problema:
+    -Definir inpout/ouput
+    -Comprender relacion in/out
+
+   Pseudocodigo
+   Codigo c++/implementacion
+   Pruebas
+/////////////////////////////////
+
+prox clase:
+Repasar todas las clases.
+Leer todas las diapositivas que va a mandar el inge
+Control de flujo
+-Condicionales
+-Switch
+-For,while
+-Break,Continue
+Operaciones logicas 
